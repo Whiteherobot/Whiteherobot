@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Ecuador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whiteherobot&label=Profile%20views&color=0e75b6&style=flat" alt="whiteherobot" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA0b200a3kzaW9odGVhNzlkdTljeWZhOXdhb3lsYWRuaHphazR3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA0b200a3kzaW9odGVhNzlkdTljeWZhOXdhb3lsYWRuaHphazR3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 🔭 I’m currently working on **MichiCorp**
 
