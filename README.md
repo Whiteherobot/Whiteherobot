@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: left;">
     <img alt="Coding" width="500" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611iv0oe5lyori5gtv5xg2dmgql89dyielxvrv8x7g9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
