@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXYwb2U1bHlvcmk1Z3R2NXhnMmRtZ3FsODlkeWllbHh2cnY4eDdnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XKSPsk67cnCw0/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611iv0oe5lyori5gtv5xg2dmgql89dyielxvrv8x7g9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h1 align="center">Hi 👋, I'm Michael or more known as Michi</h1>
 <h3 align="center">A passionate programmer from Ecuador</h3>
