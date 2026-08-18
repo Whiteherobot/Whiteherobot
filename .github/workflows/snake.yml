@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: whiteherobot
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=FBBF24&color_dots=ebedf0,99f6e4,2dd4bf,14b8a6,0f766e
+            dist/github-contribution-grid-snake-dark.svg?color_snake=FBBF24&color_dots=161b22,134e4a,0f766e,14b8a6,2dd4bf
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
