@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Michael — known as Michi
 
-<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=680&lines=Founder+%40+Endify;Computer+Vision+%26+Applied+AI+Engineer;Building+Aksel%2C+a+financial+co-pilot;Stereo+vision+on+dual+ESP32-CAM;PyTorch+-+OpenCV+-+CUDA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=680&lines=Founder+%40+Endify;Computer+Vision+%26+Applied+AI+Engineer;Building+Aksel%2C+a+financial+co-pilot;Stereo+vision+on+dual+ESP32-CAM;PyTorch+-+OpenCV+-+CUDA" alt="Typing SVG" />
 
 <a href="mailto:mlata6235@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=whiteherobot&label=Profile%20Views&color=0B1120&style=for-the-badge" alt="Profile views"/>
