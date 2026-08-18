@@ -1,25 +1,47 @@
+<div align="center">
 
-<img align="center" alt="Coding" width="900" height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611iv0oe5lyori5gtv5xg2dmgql89dyielxvrv8x7g9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img width="100%" alt="Michael Lata banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:134E4A&height=220&section=header&text=MICHAEL%20LATA&fontColor=FBBF24&fontSize=52&fontAlignY=38&animation=fadeIn&desc=founder%20%C2%B7%20engineer%20%C2%B7%20computer%20vision&descAlignY=58&descSize=16&descColor=94A3B8" />
 
-<h1 align="center">Hi 👋, I'm Michael or more known as Michi</h1>
-<h3 align="center">Founder @ Endify · Computer Vision & Applied AI Engineer</h3>
+# Hi 👋, I'm Michael — known as Michi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whiteherobot&label=Profile%20views&color=0e75b6&style=flat" alt="whiteherobot" /> </p>
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA0b200a3kzaW9odGVhNzlkdTljeWZhOXdhb3lsYWRuaHphazR3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=680&lines=Founder+%40+Endify;Computer+Vision+%26+Applied+AI+Engineer;Building+Aksel%2C+a+financial+co-pilot;Stereo+vision+on+dual+ESP32-CAM;PyTorch+-+OpenCV+-+CUDA" alt="Typing SVG" />
 
-- 🔭 Currently building **Aksel**, a bank-connected financial co-pilot at Endify, and a **stereo vision pipeline on dual ESP32-CAM** (calibration, disparity, 3D reconstruction)
+<a href="mailto:mlata6235@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=whiteherobot&label=Profile%20Views&color=0B1120&style=for-the-badge" alt="Profile views"/>
 
-- 🧠 Focus: computer vision (OpenCV, stereo calibration/disparity), applied AI (PyTorch, CUDA), edge AI on embedded hardware
+</div>
 
-- 🌱 I'm currently learning **networking and deep learning, in depth**
+<br>
 
-- 🤝 I'm open to collaborate on **AI-driven products, computer vision projects, fintech tooling**
+- 🔭 Currently building **Aksel** — a bank-connected financial co-pilot (Endify) — and a **stereo vision pipeline on dual ESP32-CAM** (calibration, disparity, 3D reconstruction)
+- 🧠 Focus: computer vision (OpenCV, stereo calibration/disparity), applied AI (PyTorch, CUDA), and edge AI on embedded hardware
+- 🌱 Learning: networking and deep learning, in depth
+- 🤝 Open to collaborate on: AI-driven products, computer vision projects, fintech tooling
+- 💬 Ask me about: Python, PyTorch, OpenCV, C#, Java, SQL, JavaScript/TypeScript, Angular
 
-- 💬 Ask me about **Python, PyTorch, OpenCV, C#, Java, SQL, JavaScript/TypeScript, Angular**
+### About me
 
-- 📫 How to reach me **mlata6235@gmail.com**
+Founder and engineer building AI-driven products end to end — from computer vision research (stereo camera calibration and 3D reconstruction on ESP32-CAM with OpenCV, PyTorch and CUDA) to shipped SaaS products at **Endify**: **Aksel** (a bank-connected financial co-pilot), **Forjia** (a fitness PWA), and **Mescachi** (a personal finance tracker). Background spans desktop, web and database engineering — WPF, ASP.NET, Java, and relational databases (Oracle, SQL Server, MySQL) — with a current focus on applied AI and product engineering.
 
-- 📄 About my experience: Founder and engineer building AI-driven products end to end — from computer vision research (stereo camera calibration and 3D reconstruction on ESP32-CAM with OpenCV, PyTorch and CUDA) to shipped SaaS products at Endify: Aksel (a bank-connected financial co-pilot), Forjia (a fitness PWA), and Mescachi (a personal finance tracker). Background spans desktop, web and database engineering — WPF, ASP.NET, Java, and relational databases (Oracle, SQL Server, MySQL) — with a current focus on applied AI and product engineering.
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+### Computer Vision & AI
+<p> <img src="https://img.shields.io/badge/Python-0B1120?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/> <img src="https://img.shields.io/badge/PyTorch-0B1120?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/> <img src="https://img.shields.io/badge/OpenCV-0B1120?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/> <img src="https://img.shields.io/badge/NVIDIA%2FCUDA-0B1120?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="NVIDIA CUDA"/> <img src="https://img.shields.io/badge/Arduino-0B1120?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino"/> </p>
+
+### Product & Web
+<p> <img src="https://img.shields.io/badge/TypeScript-0B1120?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-0B1120?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/Angular-0B1120?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular"/> <img src="https://img.shields.io/badge/Firebase-0B1120?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/> <img src="https://img.shields.io/badge/HTML5-0B1120?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-0B1120?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/> </p>
+
+### Foundations
+<p> <img src="https://img.shields.io/badge/C%23-0B1120?style=for-the-badge&logo=c-sharp&logoColor=9B4F96" alt="C#"/> <img src="https://img.shields.io/badge/Java-0B1120?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/> <img src="https://img.shields.io/badge/C%2B%2B-0B1120?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/> <img src="https://img.shields.io/badge/MySQL-0B1120?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/> <img src="https://img.shields.io/badge/Oracle-0B1120?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle"/> <img src="https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/> <img src="https://img.shields.io/badge/Linux-0B1120?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/> </p>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whiteherobot/whiteherobot/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whiteherobot/whiteherobot/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whiteherobot/whiteherobot/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
