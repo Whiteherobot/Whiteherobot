@@ -22,6 +22,19 @@ SQL Server, MySQL).
 Open to freelance work on computer vision, AI-backed products and business
 applications. Reach me by email.
 
+### Featured projects
+
+| Project | What it is |
+|---|---|
+| [csharp-centro-medico](https://github.com/Whiteherobot/csharp-centro-medico) | Desktop app for a medical clinic: patients, appointments and invoicing. C#, WPF on .NET 10, MVVM and Oracle, with CI on Linux and Windows. |
+| [java-simulador-banco](https://github.com/Whiteherobot/java-simulador-banco) | Animated discrete-event simulation of a bank queue, checked against queueing theory (M/M/c, Erlang C). |
+| [java-mvc-biblioteca](https://github.com/Whiteherobot/java-mvc-biblioteca) | Library management in Java Swing with MVC: members, ISBN-13 books and loans with late fees. |
+| [java-swing-inscripcion](https://github.com/Whiteherobot/java-swing-inscripcion) | University enrollment wizard with Ecuadorian ID validation and campus selection. |
+| [java-editor-grafico](https://github.com/Whiteherobot/java-editor-grafico) | Vector drawing editor in Java2D: drag to draw, colors, undo and PNG export. |
+| [java-fractales](https://github.com/Whiteherobot/java-fractales) | Fractal viewer: Sierpinski triangle, Koch snowflake and fractal tree. |
+
+All of them include tests and CI; the READMEs (in Spanish) explain where each project came from.
+
 <br>
 
 ### Computer Vision & AI
